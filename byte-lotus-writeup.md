@@ -1,5 +1,4 @@
 
-- 
 # Byte Lotus: Finding the Rooms That Aren't on the Floor Plan
 
 **Category:** Web / Reconnaissance
